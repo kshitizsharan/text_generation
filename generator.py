@@ -6,9 +6,9 @@ import os
 import numpy as np
 import tensorflow.compat.v1 as tf
 
-from generation import model
-from generation import sample
-from generation import encoder
+import model
+import sample
+import encoder
 
 class AI:
 
